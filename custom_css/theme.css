@@ -1,0 +1,59 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+.theme-showcase .navbar .container {
+  width: auto;
+}
+.banner {
+  font-size: 40px;
+  font-family: Sans-serif;
+}
+.title {
+  font-family: Sans-serif;
+  font-size: 60px;
+}
+img.title-image {
+  width: 200px;
+  height: 200px;
+}
+img.square-image {
+  width: 450px;
+  height: 450px;
+}
+div.fix-height-grid {
+  height: 450px;
+}
+img.banner_image {}
+div.blank-row {
+  height: 10px;
+}
+.imageAndText {
+  position: relative;
+}
+.imageAndText .textOnImg {
+  position: absolute;
+  z-index: 1;
+  left: 100px;
+  top:200px;
+  font-size:50px;
+}
+.textOnImg {
+  background-color: #ffffff;
+  opacity:0.6;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:#777777;
+  font-family:fantasy;
+}
+h1.title {
+  font-family:fantasy;
+}
